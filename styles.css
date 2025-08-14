@@ -1,0 +1,94 @@
+body { 
+ font-family:monospace;
+ font-size: 15px;
+color: whitesmoke ;
+text-shadow: 0px 0px 7px  whitesmoke;
+background: url(galaxy.png);
+background-attachment:fixed;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+img { width: 12px;}
+.button {display: inline;}
+#yes, #no, #idk, #leave {display: inline-block;}
+h1 {
+     text-align: center;
+max-width: 450px;
+    border-style:solid ;
+    border-width: 2px;
+    border-radius: 12px;
+    padding: 1px;
+    margin: 34px;
+    margin-left: auto;
+    margin-right: auto;
+font-family: "sans-serif", "sans" ;}
+p { 
+    font-size: 17px;
+}
+h2 { 
+    margin: 4%;
+    text-align: center;
+border-top:solid ;
+border-bottom:solid ;
+max-width: 300px;
+margin-left: auto;
+margin-right: auto;
+}
+.f2 , .f1 , .f3{ 
+    margin-left: 3%;
+    padding: 1%;
+    max-width: 300px;
+}
+.d1 {  
+    padding-bottom: 3%;
+}
+.checkboxes , .bar { 
+text-decoration: underline;
+font-style: oblique;
+    margin: 0%;
+}
+.f3 { 
+    margin-top:2px;
+    margin-bottom: 30px;
+}
+.p1 , .p2 { 
+    margin-left: 13px;
+    max-width: 700px;
+}
+li { 
+    font-size: 17px;
+}
+
+.p3 { text-decoration: underline;
+margin-left: 100px;
+font-style: italic;
+font-size: 20px;}
+.pe1 , .pe2 , .pe3 , .p3 { display: inline;}
+.pe1 {
+    margin: 50px;
+    font-size: 20px;
+}
+
+.pe2  {
+    font-size: 20px;
+    margin: 50px;
+}
+
+.pe3  {
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 0px;
+   
+}
+a:hover { 
+    color: #c0a9f5 ;
+}
+a {
+    color: rgb(131, 21, 131) ;
+}
+a:visited { 
+    color: rgb(131, 21, 132);
+}
+.footer { text-align: center;
+padding-top:21px;}
